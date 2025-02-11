@@ -1,4 +1,3 @@
-
 ---
 title: "State perception and prediction of digital twin based on proxy model"
 collection: publications
