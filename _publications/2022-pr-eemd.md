@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 4"
+title: "Fault diagnosis of rotating equipment bearing based on EEMD and improved sparse representation algorithm"
 collection: publications
 category: manuscripts
 permalink: /publication/2022-pr-eemd
