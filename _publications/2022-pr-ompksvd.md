@@ -2,7 +2,7 @@
 title: "Bearing fault feature extraction based on adaptive OMP and improved K-SVD"
 collection: publications
 category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/2022-pr-ompksvd
 excerpt: '本文采用自适应的OMP算法以及K-SVD算法实现轴承故障诊断准确度的提升。'
 date: 2022-03-30
 venue: 'Processes'
