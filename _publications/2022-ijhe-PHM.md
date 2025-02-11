@@ -21,4 +21,4 @@ Keywords: PHM; PEMFC; Bibliometrics; Fault diagnosis; Remaining life prediction.
 
 ***
 
-您可以访问文章页获取具体信息：doi.org/10.1016/j.ijhydene.2022.08.024
+您可以访问文章页获取具体信息：[doi.org/10.1016/j.ijhydene.2022.08.024](https://doi.org/10.1016/j.ijhydene.2022.08.024)
