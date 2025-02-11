@@ -18,3 +18,7 @@ Abstract: Because of its superior cold-start effect and lack of pollution, the p
 ***
 
 Keywords: PHM; PEMFC; Bibliometrics; Fault diagnosis; Remaining life prediction.
+
+***
+
+您可以访问文章页获取具体信息：10.1016/j.ijhydene.2022.08.024
