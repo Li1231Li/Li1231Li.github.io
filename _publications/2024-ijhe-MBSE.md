@@ -7,7 +7,7 @@ excerpt: '本文针对含自愈的复杂装备，使用MBSE方法构建了数字
 date: 2024-12-11
 venue: 'International Journal of Hydrogen Energy'
 #slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-#paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+paperurl: 'https://doi.org/10.1016/j.ijhydene.2024.11.208'
 citation: 'Wang L, Li X, Wang C, et al. Enhancing Collaborative PHM of Complex Equipment: A MBSE Approach for PEMFC Health Management Systems[J]. International Journal of Hydrogen Energy, 2024, 94: 1361-1373'
 ---
 
