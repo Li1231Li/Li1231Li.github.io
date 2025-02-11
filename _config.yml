@@ -80,7 +80,7 @@ publication_category:
   books:
     title:'书籍' #'Books'
   manuscripts:
-    title:'期刊文章' #'Journal Articles'    
+    title:'期刊文章'#'Journal Articles'    
   conferences:
     title: '会议文章'#'Conference Papers'
 
