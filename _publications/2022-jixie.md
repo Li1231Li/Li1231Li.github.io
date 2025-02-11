@@ -2,7 +2,7 @@
 title: "输电铁塔攀爬机器人夹持机构设计"
 collection: publications
 category: manuscripts
-permalink: /publication/2022-AS-LB
+permalink: /publication/2022-jixie
 excerpt: '本文中对爬塔机器人的加持机构进行结构设计与分析优化'
 date: 2022-04-15
 venue: '机械传动'
