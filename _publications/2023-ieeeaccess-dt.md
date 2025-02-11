@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2023-ieeeaccess-dt
 excerpt: '本文中提出了RBF作为代理模型的有限元实时映射方法，可供数字孪生模型使用。'
 date: 2022-05-12
-venue: ' IEEE Access
+venue: ' IEEE Access'
 paperurl: 'https://doi.org/10.1109/ACCESS.2023.3264543'
 citation: 'Wang L, Wang C, Li X, et al. State perception and prediction of digital twin based on proxy model[J]. IEEE Access, 2023, 11: 36064-36072.'
 ---
