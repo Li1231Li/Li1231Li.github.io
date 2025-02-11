@@ -4,9 +4,9 @@ collection: publications
 category: manuscripts
 permalink: /publication/2022-AS-LB
 excerpt: '本文中对爬塔机器人的加持机构进行结构设计与分析优化'
-date: 2022-05-12
+date: 2022-04-15
 venue: '机械传动'
-paperurl: ' https://doi.org/ 10.16578/j.issn.1004.2539.2022.04.017'
+paperurl: ' https://doi.org/10.16578/j.issn.1004.2539.2022.04.017'
 citation: '王丽君,王儒轩,王洋滨,李相阳等.输电铁塔攀爬机器人夹持机构设计[J].机械传动,2022,46(04):118-126.'
 ---
 
@@ -20,6 +20,6 @@ Battery active equalization; Optimum control; Equilibrium strategy; Multilevel e
 
 ***
 
-您可以访问文章页获取具体信息：[ 10.16578/j.issn.1004.2539.2022.04.017](https://doi.org/ 10.16578/j.issn.1004.2539.2022.04.017)
+您可以访问文章页获取具体信息：[ 10.16578/j.issn.1004.2539.2022.04.017](https://doi.org/10.16578/j.issn.1004.2539.2022.04.017)
 
 
