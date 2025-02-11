@@ -7,8 +7,8 @@ excerpt: '本文采用文献计量学的方法对PHM方法在PEMFC中的应用�
 date: 2022-09-19
 venue: 'International Journal of Hydrogen Energy'
 #slidesurl: 'http://Li1231Li.github.io/files/slides1.pdf'
-#paperurl: 'http://Li1231Li.github.io/files/2022-ijhe-PHM.pdf'
-citation: 'Wang L, Li X, Guo P, et al. Bibliometric analysis of prognostics and health management (PHM) in hydrogen fuel cell engines[J]. International Journal of Hydrogen Energy, 2022, 47(80): 34216-34243.[https://doi.org/10.1016/j.ijhydene.2022.08.024](https://doi.org/10.1016/j.ijhydene.2022.08.024)'
+paperurl: 'https://doi.org/10.1016/j.ijhydene.2022.08.024'
+citation: 'Wang L, Li X, Guo P, et al. Bibliometric analysis of prognostics and health management (PHM) in hydrogen fuel cell engines[J]. International Journal of Hydrogen Energy, 2022, 47(80): 34216-34243.'
 ---
 
 ***
