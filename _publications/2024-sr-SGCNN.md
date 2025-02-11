@@ -17,3 +17,9 @@ Ensuring operational integrity in large-scale equipment hinges on effective faul
 
 **Keywords:**
 Deep learning, Prognostics and health management (PHM), Remaining useful life (RUL) predictions, Neural network
+
+***
+
+您可以访问文章页获取具体信息：[doi.org/10.1038/s41598-024-74989-y](https://doi.org/10.1038/s41598-024-74989-y)
+
+
