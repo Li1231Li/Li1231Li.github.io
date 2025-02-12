@@ -19,23 +19,23 @@ redirect_from:
   
   **主要研究成果（  可通过左侧信息联系我，或点击相应选项卡查看成果细节）:** <br>
   **发表论文：SCI二区论文三篇，三区论文三篇;参与发表论文:SCI二区二篇，中文EI一篇，SCI三区二篇，北核一篇**<br>
-**[1]** Wang L.(导师),**Li X.**, Guo P., et al. Bibliometric analysis of prognostics and health management (PHM) in hydrogen fuel cell engines[J]. International Journal of Hydrogen Energy, 2022, 47(80): 34216-34243.**(中科院SCI二区TOP, EI, WOS:000872534500003; EI:20223512666375)**[[Html](https://www.sciencedirect.com/science/article/abs/pii/S0360319924048900?via%3Dihub=)] <br>
-**[2]** Wang L.(导师), **Li X.**, Wang C., et al. Enhancing Collaborative PHM of Complex Equipment: A MBSE Approach for PEMFC Health Management Systems[J]. International Journal of Hydrogen Energy, 2024, 94: 1361-1373 ( 中科院SCI二区TOP, EI, WOS:001361360700001;EI：20244717386495)<br>
-**[3]** **Li X.**., Wang L.(导师), Wang C., Ma, X., et al. A method for predicting remaining useful life using enhanced Savitzky–Golay filter and improved deep learning framework [J]. Scientific Reports, 2024,14(1): 23983. ( 中科院SCI二区，WOS:001341486300091)<br>
-**[4]** Wang L.(导师), **Li X.**, Xu D., et al. Bearing fault feature extraction based on adaptive OMP and improved K-SVD[J]. Processes, 2022, 10(4): 675.(中科院SCI三区，WOS:000785206600001)<br>
-**[5]** Wang L.(导师), **Li X.**, Xu D., et al. Fault diagnosis of rotating equipment bearing based on EEMD and improved sparse representation algorithm[J]. Processes, 2022, 10(9): 1734.(中科院SCI三区，WOS:000856701600001)<br>
-**[6]** Wang L.(导师), **Li X.**, Hong C., et al. Research and Development of Hydrogen-Fueled Internal Combustion Engines in China[J]. ACS omega, 2023, 8(51): 48590-48612.(中科院SCI三区，EI, WOS:001136355200001; EI:20222112143053)<br>
-**[7]** Wang L.(导师), Hong C., **Li X.**, et al. Review on blended hydrogen-fuel internal combustion engines: A case study for China[J]. Energy Reports, 2022, 8: 6480-6498.( 中科院SCI二区，EI, WOS:000870067300007; EI:20222112143053)<br>
-**[8]** Wang L.(导师), Lu X., Li H., **Li X.**, et al. Research on equalization strategy of Lithium battery pack based on multi-layer circuit[J]. Applied Sciences, 2022, 12(10): 4893.( 中科院SCI三区; WOS:000801769100001)<br>
-**[9]** Wang L.(导师), Li H., Lu X., **Li X.**, et al. Design of intelligent monitoring system in galloping power transmission line[J]. Sensors, 2022, 22(11): 4197.(中科院SCI二区，EI, WOS:000809126700001; EI:20222512243052)<br>
-**[10]** Wang L.(导师), Wang C., **Li X.**, et al. State perception and prediction of digital twin based on proxy model[J]. IEEE Access, 2023, 11: 36064-36072.(中科院SCI三区,EI，WOS:001038956000001；EI:20231714013083)<br>
-**[11]** 王丽君(导师),王儒轩,王洋滨,**李相阳**等.输电铁塔攀爬机器人夹持机构设计[J].机械传动,2022,46(04):118-126.(中文核心)<br>
+**[1]** Wang L.(导师),**Li X.**, Guo P., et al. Bibliometric analysis of prognostics and health management (PHM) in hydrogen fuel cell engines[J]. International Journal of Hydrogen Energy, 2022, 47(80): 34216-34243.**(中科院SCI二区TOP, EI, WOS:000872534500003; EI:20223512666375)** [[Html](https://doi.org/10.1016/j.ijhydene.2022.08.024)]<br>
+**[2]** Wang L.(导师), **Li X.**, Wang C., et al. Enhancing Collaborative PHM of Complex Equipment: A MBSE Approach for PEMFC Health Management Systems[J]. International Journal of Hydrogen Energy, 2024, 94: 1361-1373 **(中科院SCI二区TOP, EI, WOS:001361360700001;EI：20244717386495)**[[Html](https://doi.org/10.1016/j.ijhydene.2024.11.208)]<br>
+**[3]** **Li X.**., Wang L.(导师), Wang C., Ma, X., et al. A method for predicting remaining useful life using enhanced Savitzky–Golay filter and improved deep learning framework [J]. Scientific Reports, 2024,14(1): 23983. **(中科院SCI二区，WOS:001341486300091)**[[Html](https://doi.org/10.1038/s41598-024-74989-y)]<br>
+**[4]** Wang L.(导师), **Li X.**, Xu D., et al. Bearing fault feature extraction based on adaptive OMP and improved K-SVD[J]. Processes, 2022, 10(4): 675.**(中科院SCI三区，WOS:000785206600001)**[[Html](https://doi.org/10.3390/pr10040675)]<br> 
+**[5]** Wang L.(导师), **Li X.**, Xu D., et al. Fault diagnosis of rotating equipment bearing based on EEMD and improved sparse representation algorithm[J]. Processes, 2022, 10(9): 1734.**(中科院SCI三区，WOS:000856701600001)** [[Html](https://doi.org/10.3390/pr10091734)] <br>
+**[6]** Wang L.(导师), **Li X.**, Hong C., et al. Research and Development of Hydrogen-Fueled Internal Combustion Engines in China[J]. ACS omega, 2023, 8(51): 48590-48612.**(中科院SCI三区，EI, WOS:001136355200001; EI:20222112143053)** [[Html](https://pubs.acs.org/doi/10.1021/acsomega.3c05397)] <br>
+**[7]** Wang L.(导师), Hong C., **Li X.**, et al. Review on blended hydrogen-fuel internal combustion engines: A case study for China[J]. Energy Reports, 2022, 8: 6480-6498.**(中科院SCI二区，EI, WOS:000870067300007; EI:20222112143053)** [[Html](https://doi.org/10.1016/j.egyr.2022.04.079)]<br>
+**[8]** Wang L.(导师), Lu X., Li H., **Li X.**, et al. Research on equalization strategy of Lithium battery pack based on multi-layer circuit[J]. Applied Sciences, 2022, 12(10): 4893.**( 中科院SCI三区; WOS:000801769100001)** [[Html](https://doi.org/10.3390/app12104893)]<br>
+**[9]** Wang L.(导师), Li H., Lu X., **Li X.**, et al. Design of intelligent monitoring system in galloping power transmission line[J]. Sensors, 2022, 22(11): 4197.**(中科院SCI二区，EI, WOS:000809126700001; EI:20222512243052)** [[Html](https://doi.org/10.3390/s22114197)]<br>
+**[10]** Wang L.(导师), Wang C., **Li X.**, et al. State perception and prediction of digital twin based on proxy model[J]. IEEE Access, 2023, 11: 36064-36072.**(中科院SCI三区,EI，WOS:001038956000001；EI:20231714013083)** [[Html](https://doi.org/10.1109/ACCESS.2023.3264543)]<br>
+**[11]** 王丽君(导师),王儒轩,王洋滨,**李相阳**等.输电铁塔攀爬机器人夹持机构设计[J].机械传动,2022,46(04):118-126.**(中文核心)** [[Html](https://doi.org/10.16578/j.issn.1004.2539.2022.04.017)]<br>
 **[12]** 王丽君(导师),王成广,**李相阳**等. 基于多智能体深度强化学习求解分布式异构作业车间动态调度问题[J].计算机集成制造系统，已录用（中文EI）<br>
 
 ***
 
 **授权专利：发明专利一项，软件著作权三项；参与专利:发明专利公开三项，实用新型授权七项**<br>
-**[1]** 发明专利授权， 一种基于五维数字孪生技术的PEMFC故障预测及健康管理系统及方法:CN202111470571.8[P]. 2024-10-25. （发明人：王丽君;**李相阳**;曹芸玉;王成广;郭朋彦;郭树满;高玉国;秦朝举;王文;杨振中）<br>
+**[1]** 发明专利授权， 一种基于五维数字孪生技术的PEMFC故障预测及健康管理系统及方法:CN202111470571.8[P]. 2024-10-25. （发明人：王丽君;**李相阳**;曹芸玉;王成广;郭朋彦;郭树满;高玉国;秦朝举;王文;杨振中）[[Html](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=gaoji)]<br>
 **[2]** 发明专利公开，用于水下清理的污物回收系统:CN202310058409.8[P]. 2023-06-23. （发明人：王丽君;姜仕同;**李相阳**;王成广;宋小娜;田宝强;尚力阳;张智勇）<br>
 **[3]** 发明专利公开， 一种钢结构厂房BIM三维重建方法:CN202310402106.3[P]. 2023-08-15. （发明人：赵瑞生;祁鹏;郑庭;李振刚;王丽君;**李相阳**;王欣欣;申杰）<br>
 **[4]** 实用新型授权，一种老旧钢结构厂房巡检机器人的行走机构:CN202321144579.X[P]. 2023-09-15.（发明人：赵瑞生;祁鹏;杨泽;张壮壮;王丽君;**李相阳**;王欣欣）<br>
