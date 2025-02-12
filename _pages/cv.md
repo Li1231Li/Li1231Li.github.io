@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+教育经历
 ======
 * 2021.09-2025.06于[华北水利水电大学](https://ncwu.edu.cn/)攻读管理科学与工程博士学位（期间担任班长）
 * 2019.09-2021.06于[华北水利水电大学](https://ncwu.edu.cn/)攻读机械工程硕士学位（期间成绩优异转博）
