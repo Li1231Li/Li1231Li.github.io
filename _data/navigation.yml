@@ -7,7 +7,10 @@
 main:
   - title: "论文成果"
     url: /publications/
-
+    
+  - title: "专利成果"
+    url: /patent/
+  
   - title: "会议海报"
     url: /talks/    
 
