@@ -11,8 +11,8 @@ main:
   - title: "会议海报"
     url: /talks/    
 
-  - title: "部分成果展示"
-    url: /teaching/    
+ # - title: "部分成果展示"
+  #  url: /teaching/    
     
  # - title: "Portfolio"
   #  url: /portfolio/
@@ -20,7 +20,7 @@ main:
   #- title: "Blog Posts"
    # url: /year-archive/
     
-  - title: "完整简历"
+  - title: "简历"
     url: /cv/
     
   #- title: "Guide"
