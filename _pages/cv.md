@@ -14,23 +14,6 @@ Education
 * 2021.09-2025.06于[华北水利水电大学](https://ncwu.edu.cn/)攻读管理科学与工程博士学位（期间担任班长）
 * 2019.09-2021.06于[华北水利水电大学](https://ncwu.edu.cn/)攻读机械工程硕士学位（期间成绩优异转博）
 * 2015.09-2019.06于[河南理工大学](https://www.hpu.edu.cn/)攻读车辆工程学士学位（期间担任副班长）
-
-#Work experience
-#======
-#* Spring 2024: Academic Pages Collaborator
-#  * GitHub University
-#  * Duties includes: Updates and improvements to template
-#  * Supervisor: The Users
-#
-#* Fall 2015: Research Assistant
-#  * GitHub University
- # * Duties included: Merging pull requests
-#  * Supervisor: Professor Hub
-#
-#* Summer 2015: Research Assistant
-#  * GitHub University
-#  * Duties included: Tagging issues
- # * Supervisor: Professor Git
   
 技能与经验
 ======
@@ -45,7 +28,7 @@ Education
 *CET-6证书，具有较好的英语读写能力。
 
 
-Publications
+发表论文
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
