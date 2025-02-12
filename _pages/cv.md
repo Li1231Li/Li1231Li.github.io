@@ -11,35 +11,39 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* 2021.09-2025.06于[华北水利水电大学](https://ncwu.edu.cn/)攻读管理科学与工程博士学位（期间担任班长）
+* 2019.09-2021.06于[华北水利水电大学](https://ncwu.edu.cn/)攻读机械工程硕士学位（期间成绩优异转博）
+* 2015.09-2019.06于[河南理工大学](https://www.hpu.edu.cn/)攻读车辆工程学士学位（期间担任副班长）
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+#Work experience
+#======
+#* Spring 2024: Academic Pages Collaborator
+#  * GitHub University
+#  * Duties includes: Updates and improvements to template
+#  * Supervisor: The Users
+#
+#* Fall 2015: Research Assistant
+#  * GitHub University
+ # * Duties included: Merging pull requests
+#  * Supervisor: Professor Hub
+#
+#* Summer 2015: Research Assistant
+#  * GitHub University
+#  * Duties included: Tagging issues
+ # * Supervisor: Professor Git
   
-Skills
+技能与经验
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+*学科交叉背景，以机械为基础结合计算机信息学、管理学等进行拓展，并发表多篇相关论文；
+*具有丰富的科研项目经验、具有丰富的申报与结项过程文件处理经验；
+*熟练使用Matlab, Python等编程语言，熟悉神经网络、强化学习等算法具有良好的算法应用基础以及对新方法的学习能力；
+*三维制图技能证书，熟练掌握Pro/E, Catia, SolidWorks三维制图软件，基本掌握Ansys结构分析、流体分析等模块，具有较好的CAD, CAE能力，多项竞赛中负责结构设计、结构分析等工作并取得相应成绩；
+*具备LabVIEW上位机开发经验，具有Unity 3D进行数字孪生系统设计经验；
+*具有良好的机械素养，丰富的机械加工（车、铣、磨、焊）以及3D打印等经验，参与两台单人座方程式赛车（整备质量：310kg&230kg）的设计与加工工作；
+*本科至今不间断参加各类创新创业竞赛，具有丰富的创新创业竞赛经验；
+*Journal of Cleaner Production 、IEEE Sensors、ISA Transactions、International Journal of Electrochemical Science、Journal of Hydrogen Energy等SCI期刊审稿人
+*CET-6证书，具有较好的英语读写能力。
+
 
 Publications
 ======
