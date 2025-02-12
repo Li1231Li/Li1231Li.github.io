@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "专利成果"
-permalink: /cv/
+permalink: /patent/
 author_profile: true
 redirect_from:
   - /resume
