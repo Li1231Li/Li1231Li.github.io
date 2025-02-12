@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "李相阳的个人简历"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+[点此下载](../files/CV.pdf)
 
 教育经历
 ======
