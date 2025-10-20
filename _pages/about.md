@@ -18,7 +18,7 @@ redirect_from:
   ***
   
   **主要研究成果（  可通过左侧信息联系我，或点击相应选项卡查看成果细节）:** <br>
-  **发表论文：SCI二区论文三篇，三区论文三篇;参与发表论文:SCI二区二篇，中文EI一篇，SCI三区二篇，北核一篇**<br>
+  **发表论文：SCI二区论文三篇，三区论文三篇;参与发表论文:SCI二区二篇，中文EI两篇，SCI三区三篇，北核一篇**<br>
 **[1]** Wang L.(导师),**Li X.**, Guo P., et al. Bibliometric analysis of prognostics and health management (PHM) in hydrogen fuel cell engines[J]. International Journal of Hydrogen Energy, 2022, 47(80): 34216-34243.**(中科院SCI二区TOP, EI, WOS:000872534500003; EI:20223512666375)** [[Html](https://doi.org/10.1016/j.ijhydene.2022.08.024)]<br>
 **[2]** Wang L.(导师), **Li X.**, Wang C., et al. Enhancing Collaborative PHM of Complex Equipment: A MBSE Approach for PEMFC Health Management Systems[J]. International Journal of Hydrogen Energy, 2024, 94: 1361-1373 **(中科院SCI二区TOP, EI, WOS:001361360700001;EI：20244717386495)**[[Html](https://doi.org/10.1016/j.ijhydene.2024.11.208)]<br>
 **[3]** **Li X.**., Wang L.(导师), Wang C., Ma, X., et al. A method for predicting remaining useful life using enhanced Savitzky–Golay filter and improved deep learning framework [J]. Scientific Reports, 2024,14(1): 23983. **(中科院SCI二区，WOS:001341486300091)**[[Html](https://doi.org/10.1038/s41598-024-74989-y)]<br>
@@ -30,7 +30,9 @@ redirect_from:
 **[9]** Wang L.(导师), Li H., Lu X., **Li X.**, et al. Design of intelligent monitoring system in galloping power transmission line[J]. Sensors, 2022, 22(11): 4197.**(中科院SCI二区，EI, WOS:000809126700001; EI:20222512243052)** [[Html](https://doi.org/10.3390/s22114197)]<br>
 **[10]** Wang L.(导师), Wang C., **Li X.**, et al. State perception and prediction of digital twin based on proxy model[J]. IEEE Access, 2023, 11: 36064-36072.**(中科院SCI三区,EI，WOS:001038956000001；EI:20231714013083)** [[Html](https://doi.org/10.1109/ACCESS.2023.3264543)]<br>
 **[11]** 王丽君(导师),王儒轩,王洋滨,**李相阳**等.输电铁塔攀爬机器人夹持机构设计[J].机械传动,2022,46(04):118-126.**(中文核心)** [[Html](https://doi.org/10.16578/j.issn.1004.2539.2022.04.017)]<br>
-**[12]** 王丽君(导师),王成广,**李相阳**等. 基于多智能体深度强化学习求解分布式异构作业车间动态调度问题[J].计算机集成制造系统，录用待刊（中文EI）[[Html](https://doi.org/10.13196/j.cims.2024.0602 )]<br>
+**[12]** 王丽君(导师),王成广,**李相阳**等. 基于多智能体深度强化学习求解分布式异构作业车间动态调度问题[J].计算机集成制造系统，录用待刊 **（中文EI）** [[Html](https://doi.org/10.13196/j.cims.2024.0602 )]<br>
+**[13]** Wang L, Wang C, Li X, et al. A Hybrid Metaheuristic Algorithm for Multiobjective Scheduling in Distributed Heterogeneous Flexible Job Shops[J]. IEEE Transactions on Computational Social Systems, 2025. **(中科院SCI三区，WOS:001571444100001)**[[Html](DOI：10.1109/TCSS.2025.3601624 )]<br>
+**[14]** [1]王丽君,王成广,李相阳,等.基于大语言模型和深度强化学习的柔性作业车间动态调度问题研究[J/OL].计算机集成制造系统,1-21[2025-10-20].https://doi.org/10.13196/j.cims.2024.Z36. **(中科院SCI三区，WOS:001571444100001)**[[Html](https://doi.org/10.13196/j.cims.2024.Z36. )]<br>
 
 ***
 
