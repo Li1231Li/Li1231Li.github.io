@@ -1,0 +1,23 @@
+---
+title: "A Hybrid Metaheuristic Algorithm for Multiobjective Scheduling in Distributed Heterogeneous Flexible Job Shops"
+collection: publications
+category: manuscripts
+permalink: /publication/2025-IEEE
+excerpt: '本文中主要提出了提出了一种基于D3QN的双种群改进算法D3QN-NSGA-II，为车间调度提供新的方案'
+date: 2025-09-17
+venue: 'To address the issues of insufficient population diversity and the tendency to fall into local convergence in the NSGA-II algorithm for distributed heterogeneous flexible job shop scheduling, a dual-population improved algorithm, D3QN-NSGA-II, based on D3QN is proposed. By introducing a dual-population evolution strategy, the breeding population and the regular population are divided using a reproductive capacity assessment mechanism, with differentiated crossover and mutation operators designed for each. A hybrid strategy, consisting of 12 types of local search operators across 3 categories, is constructed, and the innovative application of D3QN deep reinforcement learning for dynamic operator selection is introduced. Additionally, an energy-efficient scheduling strategy is applied to optimize machine idle time. Finally, the effectiveness of the D3QN-NSGA-II algorithm is evaluated using 20 instances, with experimental results demonstrating its superiority over several other advanced algorithms in solving the DHFJS problem.'
+paperurl: ' https://ieeexplore.ieee.org/document/11159520'
+citation: 'Wang L, Wang C, Li X, et al. A Hybrid Metaheuristic Algorithm for Multiobjective Scheduling in Distributed Heterogeneous Flexible Job Shops[J]. IEEE Transactions on Computational Social Systems, 2025.
+'
+---
+
+**摘要**
+针对工件动态插入的柔性作业车间动态调度问题，以最小化总延期时间为目标，提出一种将大语言模型（LLM）与深度强化学习（DRL）结合的LLM-DQN算法。通过将LLM的语义理解能力与深度Q网络(DQN)相结合，构建了包含状态空间优化、混合动作选择和奖励函数设计的集成框架。在状态表示方面，利用LLM生成加权特征向量以突出关键调度指标；在动作选择阶段，设计混合策略实现LLM专家建议与DQN策略的动态融合；同时引入LLM驱动的自适应奖励机制。在DeepSeek和Doubao 等大语言模型上的仿真实验表明，LLM-DQN在多种测试场景下优于单一调度动作及其他深度强化学习方法。
+***
+
+**关键词**
+	大语言模型;深度强化学习;柔性作业车间;动态调度;
+
+***
+
+您可以访问文章页获取具体信息：[ 10.1109/TCSS.2025.3601624](https://doi.org/110.1109/TCSS.2025.3601624)
