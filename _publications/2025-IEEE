@@ -6,9 +6,9 @@ permalink: /publication/2025-IEEE
 excerpt: '本文中主要提出了提出了一种基于D3QN的双种群改进算法D3QN-NSGA-II，为车间调度提供新的方案'
 date: 2025-09-17
 venue: 'To address the issues of insufficient population diversity and the tendency to fall into local convergence in the NSGA-II algorithm for distributed heterogeneous flexible job shop scheduling, a dual-population improved algorithm, D3QN-NSGA-II, based on D3QN is proposed. By introducing a dual-population evolution strategy, the breeding population and the regular population are divided using a reproductive capacity assessment mechanism, with differentiated crossover and mutation operators designed for each. A hybrid strategy, consisting of 12 types of local search operators across 3 categories, is constructed, and the innovative application of D3QN deep reinforcement learning for dynamic operator selection is introduced. Additionally, an energy-efficient scheduling strategy is applied to optimize machine idle time. Finally, the effectiveness of the D3QN-NSGA-II algorithm is evaluated using 20 instances, with experimental results demonstrating its superiority over several other advanced algorithms in solving the DHFJS problem.'
+
 paperurl: ' https://ieeexplore.ieee.org/document/11159520'
-citation: 'Wang L, Wang C, Li X, et al. A Hybrid Metaheuristic Algorithm for Multiobjective Scheduling in Distributed Heterogeneous Flexible Job Shops[J]. IEEE Transactions on Computational Social Systems, 2025.
-'
+citation: 'Wang L, Wang C, Li X, et al. A Hybrid Metaheuristic Algorithm for Multiobjective Scheduling in Distributed Heterogeneous Flexible Job Shops[J]. IEEE Transactions on Computational Social Systems, 2025.'
 ---
 
 **摘要**
