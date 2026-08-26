@@ -14,6 +14,9 @@ main:
   - title: "会议海报"
     url: /talks/    
 
+  - title: "奖励"
+    url: /awards/
+
  # - title: "部分成果展示"
   #  url: /teaching/    
     
