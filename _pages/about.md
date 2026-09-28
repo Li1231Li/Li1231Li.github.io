@@ -13,7 +13,8 @@ redirect_from:
   }
   </style>
   
-  李相阳，男，中共党员，1996年11月，本科就读于[河南理工大学](https://www.hpu.edu.cn/)车辆工程专业，硕士就读于[华北水利水电大学](https://ncwu.edu.cn/)机械工程专业，研二期间转博，攻读管理科学与工程博士，硕博期间师从[王丽君教授](https://www2.ncwu.edu.cn/jixie/info/1077/1244.htm),在校期间参与发表论文12篇，其中导师第一本人第二或本人第一作者文章6篇（中科院SCI二区论文三篇，三区论文三篇），课题获得国家发明专利授权一项，软件著作权三件，参与导师省级及以上课题11项，有丰富的课题经验以及课题申报、结项材料整理经验，本科至今以自己参与的知识产权参加多项创新创业类竞赛，曾获[互联网+](https://cy.ncss.cn/)国家级铜奖，[3D大赛](https://3dds.3ddl.net/)国家级一等奖、二等奖、[大学生方程式汽车大赛](http://www.formulastudent.com.cn/introduction.html)国家级优秀奖、[ICAN创新创业大赛](http://g-ican.com/home/index)国家级二等奖等省部级及以上奖项，获得博士研究生国家奖学金，研究生一等奖学金，校友奖学金等奖项，主要研究方向为复杂装备的健康运维、数字孪生。<br>
+  李相阳，男，中共党员，1996年11月，博士学位。
+  本科就读于[河南理工大学](https://www.hpu.edu.cn/)车辆工程专业，硕士就读于[华北水利水电大学](https://ncwu.edu.cn/)机械工程专业，研二期间转博，攻读管理科学与工程博士，硕博期间师从[王丽君教授](https://www2.ncwu.edu.cn/jixie/info/1077/1244.htm),在校期间参与发表论文12篇，其中导师第一本人第二或本人第一作者文章6篇（中科院SCI二区论文三篇，三区论文三篇），课题获得国家发明专利授权一项，软件著作权三件，参与省级及以上课题11项，获[2025年河南省优秀博士论文]，有丰富的课题经验以及课题申报、结项材料整理经验，本科至今以自己参与的知识产权参加多项创新创业类竞赛，曾获[互联网+](https://cy.ncss.cn/)国家级铜奖，[3D大赛](https://3dds.3ddl.net/)国家级一等奖、二等奖、[大学生方程式汽车大赛](http://www.formulastudent.com.cn/introduction.html)国家级优秀奖、[ICAN创新创业大赛](http://g-ican.com/home/index)国家级二等奖等省部级及以上奖项，获得博士研究生国家奖学金，研究生一等奖学金，校友奖学金等奖项，主要研究方向为复杂装备的健康运维、数字孪生。<br>
 
   ***
   
@@ -30,7 +31,7 @@ redirect_from:
 **[9]** Wang L.(导师), Li H., Lu X., **Li X.**, et al. Design of intelligent monitoring system in galloping power transmission line[J]. Sensors, 2022, 22(11): 4197.**(中科院SCI二区，EI, WOS:000809126700001; EI:20222512243052)** [[Html](https://doi.org/10.3390/s22114197)]<br>
 **[10]** Wang L.(导师), Wang C., **Li X.**, et al. State perception and prediction of digital twin based on proxy model[J]. IEEE Access, 2023, 11: 36064-36072.**(中科院SCI三区,EI，WOS:001038956000001；EI:20231714013083)** [[Html](https://doi.org/10.1109/ACCESS.2023.3264543)]<br>
 **[11]** 王丽君(导师),王儒轩,王洋滨,**李相阳**等.输电铁塔攀爬机器人夹持机构设计[J].机械传动,2022,46(04):118-126.**(中文核心)** [[Html](https://doi.org/10.16578/j.issn.1004.2539.2022.04.017)]<br>
-**[12]** 王丽君(导师),王成广,**李相阳**等. 基于多智能体深度强化学习求解分布式异构作业车间动态调度问题[J].计算机集成制造系统，录用待刊 **（中文EI）** [[Html](https://doi.org/10.13196/j.cims.2024.0602 )]<br>
+**[12]** 王丽君(导师),王成广,**李相阳**,等.基于多智能体深度强化学习求解分布式异构作业车间动态调度问题[J].计算机集成制造系统,2025,31(12):4608-4620.DOI:10.13196/j.cims.2024.0602.**（中文EI）** [[Html](https://doi.org/10.13196/j.cims.2024.0602 )]<br>
 **[13]** Wang L, Wang C, Li X, et al. A Hybrid Metaheuristic Algorithm for Multiobjective Scheduling in Distributed Heterogeneous Flexible Job Shops[J]. IEEE Transactions on Computational Social Systems, 2025. **(中科院SCI三区，WOS:001571444100001)**[[Html](DOI：10.1109/TCSS.2025.3601624 )]<br>
 **[14]** [1]王丽君,王成广,李相阳,等.基于大语言模型和深度强化学习的柔性作业车间动态调度问题研究[J/OL].计算机集成制造系统,1-21[2025-10-20].https://doi.org/10.13196/j.cims.2024.Z36. **(中科院SCI三区，WOS:001571444100001)**[[Html](https://doi.org/10.13196/j.cims.2024.Z36. )]<br>
 
